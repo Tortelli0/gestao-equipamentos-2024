@@ -29,7 +29,6 @@ namespace GestaoEquipamentos.ConsoleApp.ModuloEquipamento
                     return true;
                 }
             }
-
             return false;
         }
 
